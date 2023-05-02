@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "coastal-well-302417",
+  "private_key_id": "b01c167cad9e46a9d3d3df97907128918f8fb93a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCWyOVlGdJ5JBCa\n58UkYH1odLvNLVCeAJC5gXnvVJItK2w7ijH35LSzAZLCSTr+TadcR26MtrSa1DOC\nBxBfwyvLqXXEO5KUD+e1o1LheUmVmurv7+dPmMzbCopyzet2dHJkTPq4TwpsZzIz\n3+2TBlC3T4ahosTWXBANyczh/CEyAVKI4AOWDcIc5L8NiO8Fq9fBC8vfp7LhjzZ6\nl+uD9RxtrYG7XiKAzlgR/WVYEW7ZJfHejl1y5S6QZw82huHauN6xuPrR3FJcHsVY\n9xEdR4JwzCsAS1oLXC+ptX8D3F7LgHwKHhyf3VQOGV9c8IrBLUoL78ib0rWdnD5O\nHA7k8W9pAgMBAAECggEAKI2bdJd/TelvNdpD4Ua6M8/BeqtHVVddlSbHfqDGN7PI\nBjNiwQMXvlUb/XjojuCftGfZyaqR5FpSCBSSSM8bBklrTP2grIWike19KvsN2Viy\n+xkQow27euXY2oubWl5zLZqui8dmTEVs8Rq2sKYwKz0OPoaiXeygvLSbj+PZobLj\nmY9DOOrcft3D+4Dy778G5b26quEG/igi5KA6rWQVGio593dF494Pn0KxCO231Siw\n8oAoUDsmqw2MawDKnN983SHHYEGPRopl61fm3IzHfgBIorXiM+wjxiLy5TNHg90F\nEo65Ca6h+qFcXpoDsxT95Tj3IdtobIfs03ti8HcGiQKBgQDLqtfIReiooI9GTbcd\nER0ZUUxy9ZJgLw/+I8EYdz32nKnZmkZcBIwl/6MTxtn2Ndupgujfb4OcuQUbPbIC\nzKOm/eYmxuAr5D85I2lWr3bQ8kuDBvpFNhdTLsI5EhD48y68r0LKHu84mOzlE59g\nJGMiFwpGsX+++OmAy9b6JP83twKBgQC9h3TjjnOf8+uyElTZaRlDspPqJUIszSz4\nTm2QiQeh71mjDOLyRfCFITiIERqlAq0aNmQQd7J0jti86wQjUpsLqBudfYHzv74i\nxMq53tifcaqmel6TT5XLGwX3E7hU+wYfOC0oB5KGGoZHkbL3eNjl9Nre6kIVHZdF\nK++lD/lR3wKBgE0LnAWPLKxd0NVvoM3GI5PoRVtXur/YDdy9+dYfhbk9GqPO0L8O\nmVXmlvJsTxfs1+QQObgMn2UyONRNSoH0mBQcCGyy3yq7dY9P7hF03yW8AwTWJub3\nx2sYTTD5vKHwnMWUJ1f+y9BFSZh/C9N68GV9Ac4sZ37++pZWhkSqqkGRAoGAA3/O\nvqzQobFlNqJ0ApeYKdHQPVB2ylD3dZYtG7AL/gdnRkVko0h7Sln0qz51mXpVK9i5\nPDyZhOFmSwajyusphauS5vN8RL3TitzLSWc95KO6nNxBhsK/Z0KWd5tbmeYQlN76\npnSNVgCDXirofP00M/qzV85HbhBfzJ0lDY0f800CgYBjZdh4XorWFfQOPOx63C1Y\nkoVqs5VJW6SyvXREfuYnWPrPnvJjAhZhDOBj2P5H81hKNdAY9AkzzRu6AwZdAJaX\nsYnJo+gDvZSojyJi8Cq6WbpjkGisyLjBmfXujUVUP8gBgZ+p0ClYs5LW3heN/+mk\nITXpSgrcYuT404urll+gFA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "emanuel-lara@coastal-well-302417.iam.gserviceaccount.com",
+  "client_id": "112150985669350255672",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/emanuel-lara%40coastal-well-302417.iam.gserviceaccount.com"
+}
